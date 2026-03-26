@@ -42,5 +42,5 @@ AgroSmart AI is a Machine Learning-based crop recommendation system that suggest
 ---
 
 ## Project Structure
-<img width="1307" height="443" alt="image" src="https://github.com/user-attachments/assets/d8f421c1-08f2-42b5-9922-2618042c09ea" />
+<img width="1394" height="527" alt="image" src="https://github.com/user-attachments/assets/8ea0afc0-41f0-48ca-9caa-48eda8fc2a7f" />
 
